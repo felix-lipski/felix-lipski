@@ -1,4 +1,4 @@
-I mostly do procedural music generation with functional programming.
+I mostly do procedural music generation, gamedev and functional programming.
 
 Profesionally I do ~~React~~ ~~Scala~~ Haskell.
 
