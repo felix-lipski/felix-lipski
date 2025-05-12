@@ -1,6 +1,6 @@
 I mostly do procedural music generation, gamedev and functional programming.
 
-Profesionally I do ~~React~~ ~~Scala~~ Haskell.
+Profesionally I do ~~React~~ ~~Scala~~ ~~Haskell~~ React.
 
 My website: [felix.lipski.xyz](https://felix.lipski.xyz)
 
