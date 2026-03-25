@@ -1,4 +1,4 @@
-I mainly use languages which appear blue on github, but OCaml is nice too.
+I mainly use languages which appear blue on GitHub. Blue is my favourite color.
 
 [felix.lipski.xyz](https://felix.lipski.xyz)
 
